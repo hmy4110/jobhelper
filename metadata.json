@@ -1,0 +1,8 @@
+{
+  "name": "취뽀메이트 (JobMate AI) - 취준생 맞춤 AI 커리어 코치",
+  "description": "자기소개서 첨삭, 실전 모의면접, STAR 직무역량 분석, 면접 질문 시뮬레이션까지 취업준비생을 위한 올인원 AI 멘토 챗봇",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
